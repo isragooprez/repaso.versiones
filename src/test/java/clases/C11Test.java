@@ -1,4 +1,4 @@
-package repaso.versiones;
+package clases;
 
 import org.junit.Test;
 
